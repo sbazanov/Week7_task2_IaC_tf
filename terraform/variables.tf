@@ -20,3 +20,4 @@ variable "GKE_CLUSTER_NAME" {
   type        = string
   default     = ""
   description = "GKE cluster name"
+}
